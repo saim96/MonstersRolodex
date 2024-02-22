@@ -3,6 +3,7 @@ import SearchBox from "./components/search-box/search-box.component";
 import "./App.css";
 import CardList from "./components/card-list/card-list.component";
 
+// we will start working from here
 class App extends Component {
   // All of the entire UI is encapsulated in App Component
   constructor() {
